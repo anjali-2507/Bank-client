@@ -21,3 +21,15 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+client/node_modules
+server/node_modules
+server/db/node_modules
+server/db/package-lock.json
+server/db/package.json
+server/db/db/node_modules
+server/db/db/package-lock.json
+server/db/db/package.json
+
+server/.env
+
